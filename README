@@ -1,0 +1,11 @@
+mataroa.el
+==========
+
+`mataroa.el' is a (work-in-progress) Emacs package for interacting with blogs hosted within the `mataroa.blog'
+blogging platform via its API.
+
+to-do
+-----
+- [x] functions for each API endpoint
+- [ ] commands for managing posts via UI
+- [ ] publishing/drafting Org files as posts
