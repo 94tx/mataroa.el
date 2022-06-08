@@ -1,8 +1,17 @@
 mataroa.el
 ==========
 
-`mataroa.el' is a (work-in-progress) Emacs package for interacting with blogs hosted within the `mataroa.blog'
-blogging platform via its API.
+`mataroa.el' is a (work-in-progress) Emacs package for interacting with blogs 
+hosted within the `mataroa.blog' blogging platform via its API.
+
+requirements
+------------
+Emacs 27.x+ (uses `iso8601' library), and `request' package from MELPA 
+(https://melpa.org/#/request)
+
+how-to
+------
+TODO
 
 to-do
 -----
